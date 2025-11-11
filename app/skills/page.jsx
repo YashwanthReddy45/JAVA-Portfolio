@@ -1,0 +1,1 @@
+export default function Page(){return (<div><h1 className='text-3xl font-bold mb-4'>Technical Skills</h1><p>Java, Spring Boot, React, Angular, Microservices, REST APIs, AWS, Docker, Jenkins, SQL/NoSQL, Hibernate, Git, Agile, CI/CD</p></div>);}

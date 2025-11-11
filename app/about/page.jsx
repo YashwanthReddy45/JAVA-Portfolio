@@ -1,0 +1,5 @@
+export default function Page(){return (<div><h1 className="text-3xl font-bold mb-4">Professional Summary</h1>
+<p className="text-gray-700 leading-relaxed">
+With over a decade of experience in designing and delivering enterprise-grade applications, I specialize in building scalable, high-performance solutions using Java, Spring Boot, Microservices, and modern front-end technologies such as Angular and React. My work has consistently focused on enhancing system efficiency, optimizing business workflows, and implementing reliable distributed systems in cloud-native environments. I bring strong hands-on expertise with both SQL and NoSQL database architectures, cloud platforms like AWS and Azure, and DevOps pipelines leveraging CI/CD, Docker, and Jenkins. I collaborate effectively with cross-functional teams in Agile environments, mentor junior engineers, and engage directly with stakeholders to translate complex business needs into robust technical solutions. My professional approach centers on clean code, modular design, performance tuning, and long-term maintainability of mission-critical services.
+</p>
+</div>);}

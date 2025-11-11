@@ -1,0 +1,1 @@
+export default function Home(){ return <div>Select a page from navigation.</div>; }
